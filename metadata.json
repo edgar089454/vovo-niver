@@ -1,0 +1,8 @@
+{
+  "name": "Legado 76 - Homenagem ao Vovô",
+  "description": "Um painel interativo, elegante e responsivo para celebrar os 76 anos de vida, com linha do tempo, galeria e mensagens da família.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
